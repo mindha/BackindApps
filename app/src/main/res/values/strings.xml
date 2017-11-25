@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">BackindApps</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_onboarding">OnboardingActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <string name="desc_login">Backind membantu anda menemukan tempat wisata impian dan homestay terdekat!</string>
+    <string name="facebook">FACEBOOK</string>
+    <string name="google">GOOGLE</string>
+    <string name="lupa_pass">LUPA PASSWORD?</string>
+    <string name="belum_punya_akun">BELUM PUNYA AKUN?</string>
+    <string name="sudah_punya_akun">SUDAH PUNYA AKUN?</string>
+    <string name="daftar_sekarang">DAFTAR SEKARANG</string>
+    <string name="login">LOGIN</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="prompt_email">ALAMAT EMAIL</string>
+    <string name="prompt_password">KATA SANDI</string>
+    <string name="action_sign_in">Login</string>
+
+    <string name="nama_depan">NAMA DEPAN</string>
+    <string name="nama_belakang">NAMA BELAKANG</string>
+    <string name="kata_sandi">KATA SANDI</string>
+    <string name="ulangi_kata_sandi">ULANGI KATA SANDI</string>
+    <string name="daftar">DAFTAR</string>
+
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="kosong"> </string>
+    <string name="skip">MULAI</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Cari dan Booking Wisata</string>
+    <string name="slide_1_desc">Kamu dengan mudah bisa mencari, menemukan dan booking tiket Wisata</string>
+
+    <string name="slide_2_title">Cari Homestay Pilihanmu</string>
+    <string name="slide_2_desc">Kamu bisa menemukan homestay sesuai pilhanmu</string>
+
+    <string name="slide_3_title">Cari Homestay dan Wisata Sekaligus</string>
+    <string name="slide_3_desc">Kamu bisa langsung booking homestay dan wisata sekaligus</string>
+    <string name="title_activity_tab_menu">TabMenu</string>
+    <string name="title_activity_bottom_menu">BottomMenu</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">My Booking</string>
+    <string name="title_notifications">My Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
